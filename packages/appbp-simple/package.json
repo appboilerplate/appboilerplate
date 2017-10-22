@@ -1,0 +1,17 @@
+{
+    "name": "appbp-simple",
+    "repository": "appboilerplate/appboilerplate",
+    "author": "Sönke Kluth <soenke.kluth@gmail.com> (http://soenkekluth.com/)",
+    "license": "MIT",
+    "description": "",
+    "bugs": {
+        "url": "appboilerplate/appboilerplate/issues"
+    },
+    "homepage": "https://github.com/appboilerplate/appboilerplate#readme",
+    "version": "1.0.1",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": []
+}
